@@ -1,0 +1,16 @@
+/*Centering things was always a pain, remembering best practices isnt likely to happen. So far nothings worked*/
+/* .mainProfile{
+    display: block;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+body{
+    background-color: rgb(210, 221, 233);
+  }
+header{
+    background-color: rgb(160, 160, 179);
+    color: rgb(248, 248, 248)
+    
+}
